@@ -16,7 +16,8 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable,
 - MUI 🖍️
 
 **Backend**:  
-- Node.js 🚀  
+- Node.js 🚀
+- Express.js 🚦   
 - TypeScript 🔧  
 
 **Databases**:  
