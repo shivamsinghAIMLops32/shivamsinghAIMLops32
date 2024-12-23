@@ -1,5 +1,38 @@
-# 💫 About Me:
-Hi there, I'm Shivam Singh! 👋<br><br>I'm a Full Stack Web Developer passionate about crafting scalable, efficient, and user-friendly web applications. With expertise in both front-end and back-end technologies, I enjoy building seamless digital experiences and solving challenging problems.<br><br>My Tech Stack Highlights:<br>Frontend: React, Next.js<br>Backend: Node.js, TypeScript<br>Databases: MongoDB, PostgreSQL (with ORM integration like Prisma or Sequelize)<br>Caching: Redis<br>I’m constantly exploring new tools and frameworks to build robust and modern applications!
+---
+
+# 👋 Hi, I'm Shivam Singh!
+
+I'm a passionate **Full Stack Web Developer** with a focus on building scalable, efficient, and user-friendly web applications. I enjoy crafting seamless digital experiences and solving complex challenges, leveraging my expertise in both **front-end** and **back-end** technologies.
+
+---
+
+### 🚀 **Tech Stack Highlights**
+
+**Frontend**:  
+- React ⚛️  
+- Next.js 🌐  
+- Tailwind CSS 🎨  
+- ShadCN 🖌️  
+- MUI 🖍️
+
+**Backend**:  
+- Node.js 🚀  
+- TypeScript 🔧  
+
+**Databases**:  
+- MongoDB 📦  
+- PostgreSQL 💾 (with ORM integration like Prisma or Sequelize)
+
+**Caching**:  
+- Redis 🔥
+
+---
+
+I'm constantly exploring new tools and frameworks to build modern, high-performance applications with a smooth user experience. Let’s build something amazing! 💡
+
+---
+
+This version is more visually appealing and engaging for your README. Let me know if you'd like to tweak anything!
 
 
 # 💻 Tech Stack:
