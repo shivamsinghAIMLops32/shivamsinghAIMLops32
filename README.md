@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable,
 
 **Databases**:  
 - MongoDB 📦  
-- PostgreSQL 💾 (with ORM integration like Prisma or Sequelize)
+- PostgreSQL 💾 (with ORM integration like Prisma or Drizzle)
 
 **Caching**:  
 - Redis 🔥
