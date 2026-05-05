@@ -17,19 +17,39 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable,
 
 **Backend**:  
 - Node.js 🚀
-- Express.js 🚦   
-- TypeScript 🔧  
+- Express.js 🚦
+- Bunjs 🐰   
+- TypeScript 🔧
+- Rust 🦀  
 
 **Databases**:  
 - MongoDB 📦  
 - PostgreSQL 💾 (with ORM integration like Prisma or Drizzle)
+- Amazon S3 ( Blob Storage )
 
 **Caching**:  
 - Redis 🔥
+- CDN
+  
+**Message Queue**:  
+- BullMq 🐂
+- RabbitMq 🐰
+- Kafka 🔥
 
+**DevOps**
+- GIT and GITHUB
+- Docker 🐳
+- Kubernetes
+- CI/CD
+- HELM
+
+**LOGGING and MONITORING**
+- Grafana
+- Prometheus
+- OpenTelemetry
 ---
 
-I'm constantly exploring new tools and frameworks to build modern, high-performance applications with a smooth user experience. Let’s build something amazing! 💡
+I'm constantly exploring new tools and frameworks to build modern, high-performance applications with a smooth user experience also exploring llms and how to integrate them into webapps. Let’s build something amazing! 💡
 
 ---
 
