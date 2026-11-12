@@ -17,6 +17,8 @@ I'm a passionate **Full Stack Web Developer** with a focus on building scalable,
 
 **Backend**:  
 - Node.js 🚀
+- Golang <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c2747ed3-06bc-4136-b1f8-db2e31c7c71b" />
+
 - Express.js 🚦
 - Bunjs 🐰   
 - TypeScript 🔧
